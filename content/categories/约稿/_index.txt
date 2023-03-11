@@ -1,0 +1,9 @@
+---
+title: "约稿"
+description: "约稿公开"
+slug: "其他"
+image: ""
+style:
+    background: "#2a9d8f"
+    color: "#fff"
+---
